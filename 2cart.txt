@@ -1,0 +1,37 @@
+HTTP/2 200
+date: Tue, 04 Nov 2025 13:08:10 GMT
+content-type: text/javascript; charset=utf-8
+cf-ray: 999456a9c9874ec3-JNB
+x-sorting-hat-podid: 264
+x-sorting-hat-shopid: 84066795785
+x-storefront-renderer-rendered: 1
+set-cookie: cart_currency=GBP; path=/; expires=Tue, 18 Nov 2025 13:08:10 GMT; SameSite=Lax
+set-cookie: _shopify_y=ed34ca21-777b-4332-b681-b9b988e0e94a; domain=thebodyshop.com; path=/; expires=Wed, 04 Nov 2026 19:08:10 GMT; SameSite=Lax
+set-cookie: _shopify_s=ee4c4af1-f8a5-4b87-825b-9dd4710e71e1; domain=thebodyshop.com; path=/; expires=Tue, 04 Nov 2025 13:38:10 GMT; SameSite=Lax
+x-cartjs-cache: 1
+x-cartjs-updatedat: 1762261688
+shopify-complexity-score: 0
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+x-shopid: 84066795785
+x-shardid: 264
+vary: Accept,accept-encoding
+content-language: en-GB
+powered-by: Shopify
+server-timing: processing;dur=34, db;dur=11, db_async;dur=1.629, edge_cart;dur=3.98;desc="trips=1", asn;desc="329387", edge;desc="JNB", country;desc="KE", servedBy;desc="vz9l", requestID;desc="d389554b-718a-47e2-b341-a486d0a61247-1762261689", _y;desc="ed34ca21-777b-4332-b681-b9b988e0e94a", _s;desc="ee4c4af1-f8a5-4b87-825b-9dd4710e71e1", _cmp;desc="3.AMPS_KE30_f_f_9eDwKHHaRO-WuvupFKP8BA_%7B%7D"
+server-timing: cfRequestDuration;dur=251.000166
+content-encoding: gzip
+x-dc: gcp-europe-west1,gcp-europe-west1,gcp-europe-west1
+x-request-id: d389554b-718a-47e2-b341-a486d0a61247-1762261689
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KXLvt6wOkDRmljMtkL%2B740aboGGHcFrswP1UXY1VHn6ELqzTZOfs4eoVGY6Qmv8aTUhGXfMYhuRnefabZjZzR4pawVdWjcy%2BlnLSVuRfOkHJmmDkZ5nCZ8LMewOi%2Bn7%2FnF3pxXk%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+x-download-options: noopen
+server: cloudflare
+
+{"token":"hWN4SuTwuQv71W345nSP0PS7?key=8eb9f8ff24353cd2e1f1952cf3de4aff","note":"","attributes":{"draft_order_id":"20e22c7d-aa81-404f-a901-ac021a823385"},"original_total_price":350,"total_price":350,"total_discount":0,"total_weight":0.0,"item_count":1,"items":[{"id":48426679927049,"properties":{},"quantity":1,"variant_id":48426679927049,"key":"48426679927049:a519db0c66c994f3731e1020c64dfe66","title":"Ginger Anti-dandruff Shampoo - 60ml","price":350,"original_price":350,"presentment_price":3.5,"discounted_price":350,"line_price":350,"original_line_price":350,"total_discount":0,"discounts":[],"sku":"1042559","grams":0,"vendor":"The Body Shop","taxable":true,"product_id":9282926379273,"product_has_only_default_variant":false,"gift_card":false,"final_price":350,"final_line_price":350,"url":"\/products\/ginger-anti-dandruff-shampoo?variant=48426679927049","featured_image":{"aspect_ratio":1.0,"alt":"Ginger Anti-dandruff Shampoo","height":1024,"url":"https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/6679\/5785\/files\/ginger_temp_1.jpg?v=1758616917","width":1024},"image":"https:\/\/cdn.shopify.com\/s\/files\/1\/0840\/6679\/5785\/files\/ginger_temp_1.jpg?v=1758616917","handle":"ginger-anti-dandruff-shampoo","requires_shipping":true,"product_type":"Shampoo","product_title":"Ginger Anti-dandruff Shampoo","product_description":"Help clear flakes and leave dry, itchy scalps feeling soothed","variant_title":"60ml","variant_options":["60ml"],"options_with_values":[{"name":"Size","value":"60ml"}],"line_level_discount_allocations":[],"line_level_total_discount":0,"quantity_rule":{"min":1,"max":null,"increment":1},"has_components":false}],"requires_shipping":true,"currency":"GBP","items_subtotal_price":350,"cart_level_discount_applications":[],"discount_codes":[]}

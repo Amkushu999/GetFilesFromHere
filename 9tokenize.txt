@@ -1,0 +1,12 @@
+HTTP/2 200
+server: nginx
+date: Tue, 04 Nov 2025 13:09:34 GMT
+content-type: application/json
+vary: Accept-Encoding
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+content-encoding: gzip
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"id":"east-54b3f1154096ac3e050639793dba0a1b"}

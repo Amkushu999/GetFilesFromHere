@@ -1,0 +1,32 @@
+HTTP/2 200
+date: Tue, 04 Nov 2025 13:09:41 GMT
+content-type: application/json; charset=utf-8
+cf-ray: 999458e4fb684ec3-JNB
+x-sorting-hat-podid: 264
+x-sorting-hat-shopid: 84066795785
+vary: Accept-Encoding,Origin
+x-frame-options: DENY
+x-shopid: 84066795785
+x-shardid: 264
+content-language: en-GB
+access-control-allow-origin: https://www.thebodyshop.com
+access-control-expose-headers: Access-Control-Allow-Origin, X-Request-Id
+strict-transport-security: max-age=7889238
+x-request-id: e7180600-2a41-4f0b-8e92-181c80548f83-1762261781
+server-timing: processing;dur=116, edge_cart;desc="count=1";dur=4.57, spanner_session;desc="count=1";dur=5.87, verdict_flag_enabled;desc="count=47";dur=5.422, graphql;desc="checkout/query/PollForReceipt", _y;desc="ed34ca21-777b-4332-b681-b9b988e0e94a", _s;desc="ee4c4af1-f8a5-4b87-825b-9dd4710e71e1", _cmp;desc="3.AMPS_KE30___9eDwKHHaRO-WuvupFKP8BA"
+server-timing: cfRequestDuration;dur=552.000046
+content-security-policy: frame-ancestors 'none'; report-uri /csp-report?source%5Baction%5D=query&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=checkouts%2Fone%2Fgraphql&source%5Bsection%5D=checkouts_one_gql&source%5Buuid%5D=e7180600-2a41-4f0b-8e92-181c80548f83-1762261781; report-to shopify-csp
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1; mode=block
+reporting-endpoints: shopify-csp="/csp-report?source%5Baction%5D=query&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=checkouts%2Fone%2Fgraphql&source%5Bsection%5D=checkouts_one_gql&source%5Buuid%5D=e7180600-2a41-4f0b-8e92-181c80548f83-1762261781"
+x-dc: gcp-europe-west1,gcp-europe-west1,gcp-europe-west1
+content-encoding: gzip
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6lcRni0K7B5C4%2BLOEWgR0siyEAConcwxnXC5bI5Azo%2FY1WFf1W9UuiWC7KsmhIQmkKSeJ3p3WmUi6aYj7M%2BiMtzi3TU%2FSwgZy15aeb2Yw8NjpymC9983M%2FUC1%2FOnfwXE9zotH4U%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+
+{"data":{"receipt":{"id":"gid://shopify/ProcessedReceipt/7053887537417","processingError":{"code":"CARD_DECLINED","messageUntranslated":"","hasOffsitePaymentMethod":false,"__typename":"PaymentFailed"},"__typename":"FailedReceipt"}}}

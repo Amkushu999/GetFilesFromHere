@@ -1,0 +1,39 @@
+HTTP/2 200
+date: Tue, 04 Nov 2025 13:08:08 GMT
+content-type: text/javascript; charset=utf-8
+cf-ray: 9994569dfb824ec3-JNB
+x-sorting-hat-podid: 264
+x-sorting-hat-shopid: 84066795785
+x-storefront-renderer-rendered: 1
+cache-control: no-cache, no-store
+set-cookie: _shopify_essential=%3AAZpO-R9xAAEA1daH8U8wMSYEbF4F4x2EIquLaefQPFIT9jouP12Nuhi8Pf1tUxkbabKzZlGOYX9MBIFQGlM6QjFJb4UME36-gVKiVohwLiTyHa2GMf2IwcVbCLUJiFhrMGry37xbkpgfW4a5S1rWXiZWskSmkLjAFHn0ZZWyQPSTvdZ4JLLaiTN6BOad3RtnonWmD8TudFXLE-ynlR3PtPBTwZ7un23acAhDkljco6AEf3oHBbHnLbQ468g0QP5CUBPua6f3udi5NlB9JabOvurkET1ZrlKkX0w3PkhIWc7aphsLuBtdrxUV9uLElrRI-XT9P4RXNXWxiQVKNiRIhO7LdRsGb_iZJzlgm-DSm-Qz5VSOok2U5SApBHZv7LhYYprGbmS8LBiVReSaBzIJ6dP6bhhOothorw9ZKRIXs88L4VuoKX2NTzpTJp96tIwD9qI9nHXqf2wYmRarXlcLbCzetVlXxeNin2LnQZv2vHToze5DC_P9dYh88fVwicv3NzeBm6XmcsC7lSp9ZnotB58zUq5BGNhzjifrvwQ1Ialcc_yRf2TO2SNuilDMGfVNJ7UplcRPXfRkaMfePDKZp5ivHc1W0hCbTRqFgVs149IqZvS5OF2Lkc1VAoKMjO5iH5rMKx8t31dMHnDiRjr657m8EnkcNsJgKGtjKqn4z5SD792eFdLaXx2kgd1_0EQ5VKEt_iZIIiEXizxOwHHVP70ggjY-6Ol3045GABbNFbidwW8_hEOcu93ZpTs3ecokXmQ_r0XCxK6r%3A; path=/; secure; HttpOnly; SameSite=Lax
+set-cookie: _shopify_y=ed34ca21-777b-4332-b681-b9b988e0e94a; domain=thebodyshop.com; path=/; expires=Wed, 04 Nov 2026 19:08:08 GMT; SameSite=Lax
+set-cookie: _shopify_s=ee4c4af1-f8a5-4b87-825b-9dd4710e71e1; domain=thebodyshop.com; path=/; expires=Tue, 04 Nov 2025 13:38:08 GMT; SameSite=Lax
+set-cookie: cart=hWN4SuTwuQv71W345nSP0PS7%3Fkey%3D8eb9f8ff24353cd2e1f1952cf3de4aff; path=/; expires=Fri, 05 Dec 2025 13:08:08 GMT; SameSite=Lax
+set-cookie: cart_currency=GBP; path=/; expires=Fri, 05 Dec 2025 13:08:08 GMT; SameSite=Lax
+set-cookie: _shopify_essential=:AZpO-2DYAAEAP-inhWDxudObpvp0kdh7B2k_NWK4-3yVIJ-WBVmue0TBnSbQ-Cy7pyv2vfe_cUgtQxbnnI3IPF_c6KWD3RQJG8_cnFdWfvt8EQ77HSTweXlWWl96JveAZ9bZw4Y4rqXTH3KrCV-GSMJSSpQseaUNI_ooMn_QZRfl7vzUNL-0W_9bdcd-Wlblknc6SBa9U55iXSOUeVT3nxgLo7jxWa7B7t3e0zjf6YRNzBqCFROAumcZma4DshEptMMr6_NDEyAcRZM_Mw9Mnk21W4oIm04pAdJweuvZ9v0agFQxJx4GU5Dve0mg_sHEmFeuOMIVAVwaR19YQLBDQrCr8bSN1bKczZnssFJrAED2z2Rk_jRDNhafqTVKxIJlVaPMhyi5gDzHbVq-uS1yyosoy_HZOxCkPBRUiH3vv1EW5GsiJrFLx78vr6LtlNAYD1fv5mp_5sazl_JQOREbQXKZk04V252r5pY7eexvKwaVfAA2WRW7uBCMnhJa138mwGHuIkpXdboYOB4yS8vVaQp1EL4si9kdcmobZoULiIMdl4cpQB7DZmLy7yPj1llxxCZF_QJ6GgkbL_E7u5eYB2rDexQrTblBpvlWOmHhqEVVUS6-SxMHeu3kmMf0HSY-NhlDaVvqdMWODKejitCM_ZdDTgqWaFq0j3LB9R6tbb9Jud7ftE4P8gCuTJvK-qTMd8VsSiM6S4qNefBW7-twJo3PdDDHT_b9iRlND-Pj6pPm1-mlZ5fTD_QAZC62Ydty4iZ0lv8FFL4-:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax
+clear-site-data: "prefetchCache", "prerenderCache"
+shopify-complexity-score: 1242
+x-frame-options: DENY
+content-security-policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+strict-transport-security: max-age=7889238
+x-shopid: 84066795785
+x-shardid: 264
+vary: Accept,accept-encoding
+powered-by: Shopify
+server-timing: processing;dur=424;desc="gc:3", db;dur=13, db_async;dur=1.399, edge_cart;dur=10.42;desc="trips=2", fetch;dur=383, asn;desc="329387", edge;desc="JNB", country;desc="KE", servedBy;desc="kg9n", requestID;desc="ad44f6c5-2798-48db-94a7-969edeb3ed52-1762261687", _y;desc="ed34ca21-777b-4332-b681-b9b988e0e94a", _s;desc="ee4c4af1-f8a5-4b87-825b-9dd4710e71e1", _cmp;desc="3.AMPS_KE30_f_f_9eDwKHHaRO-WuvupFKP8BA_%7B%7D"
+server-timing: cfRequestDuration;dur=634.999990
+content-encoding: gzip
+x-dc: gcp-europe-west1,gcp-europe-west1,gcp-europe-west1
+x-request-id: ad44f6c5-2798-48db-94a7-969edeb3ed52-1762261687
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ZcC8V7F5M1%2FlYH60EfQ1ADjkFjOsVoUZnOwyR%2FUC0V0qGSxIqPw6t6vZiah19y7nI2VBOwGUiH9PMGrVpTLWZxILfbh398IXc4eopUC%2FNa3v5YoSlUNFlLYvPps9vnJY12FF4%2FY%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: none
+x-download-options: noopen
+server: cloudflare
+
+{"id":48426679927049,"properties":{},"quantity":1,"variant_id":48426679927049,"key":"48426679927049:a519db0c66c994f3731e1020c64dfe66","title":"Ginger Anti-dandruff Shampoo - 60ml","product_title":"Ginger Anti-dandruff Shampoo","variant_title":"60ml","price":350,"original_price":350,"discounted_price":350,"line_price":350,"original_line_price":350,"presentment_price":3.5,"total_discount":0,"discounts":[],"sku":"1042559","grams":0,"vendor":"The Body Shop","taxable":true,"product_id":9282926379273,"product_has_only_default_variant":false,"gift_card":false,"final_price":350,"final_line_price":350,"url":"/products/ginger-anti-dandruff-shampoo?variant=48426679927049","featured_image":{"alt":"Ginger Anti-dandruff Shampoo","aspect_ratio":1.0,"height":1024,"url":"https://cdn.shopify.com/s/files/1/0840/6679/5785/files/ginger_temp_1.jpg?v=1758616917","width":1024},"image":"https://cdn.shopify.com/s/files/1/0840/6679/5785/files/ginger_temp_1.jpg?v=1758616917","handle":"ginger-anti-dandruff-shampoo","requires_shipping":true,"product_type":"Shampoo","untranslated_product_title":"Ginger Anti-dandruff Shampoo","product_description":"Help clear flakes and leave dry, itchy scalps feeling soothed","untranslated_variant_title":"60ml","variant_options":["60ml"],"options_with_values":[{"name":"Size","value":"60ml"}],"line_level_discount_allocations":[],"line_level_total_discount":0}
